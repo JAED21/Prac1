@@ -1,2 +1,3 @@
-Este es el maestro 
+Este es el maestro.
+ Hola amigos. 
 Ahora tiene el branch 2 
